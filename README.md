@@ -1,4 +1,5 @@
 # Business Analytics Graduate Student | Data Science & Analytics Enthusiast
+[LinkedIn URL](https://www.linkedin.com/in/usujjwals/)
 
 #### Technical Skills:- Python, SQL, R Script, Data Mining, Machine Learning, Statistics, Database Management Systems, Microsoft Office.
 
